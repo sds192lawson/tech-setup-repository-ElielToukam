@@ -1,7 +1,7 @@
 ---
 title: "Practice"
-author: "YOUR NAME HERE"
-date: "DATE HERE"
+author: "ElielToukam"
+date: "01/29/2026"
 editor:
   mode: source
 ---
@@ -12,7 +12,7 @@ If you're able to see this file in RStudio (and edit it), congratulations! Pleas
 
 Using the `paste()` function, input "Hello World" within the parentheses and write out the code below in the gray chunk.
 
-```{r}
+```{Hello World}
 
 ```
 
@@ -20,7 +20,7 @@ Using the `paste()` function, input "Hello World" within the parentheses and wri
 
 In the gray chunk below, write out and run a simple mathematical calculation. This can be with addition, subtraction, etc. using similar input that you would put in a traditional calculator.
 
-```{r}
+```{2+2}
 
 ```
 
